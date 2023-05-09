@@ -1,0 +1,19 @@
+.box{
+    height: 200px;
+    width: 80%;
+    background-image: url(https://wallpapershome.com/images/pages/pic_h/21486.jpg);
+    padding: 10px;
+    margin: 10px;
+    border: 10px dashed rgb(20, 32, 67);
+    background-repeat: repeat;
+    background-attachment: scroll ;
+   background-position: 20% 70%;
+   border-radius: 30%;
+
+}
+.b1{
+    background-clip: content-box;
+}
+.b2{
+    background-clip: padding-box;
+}

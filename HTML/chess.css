@@ -1,0 +1,25 @@
+.border{
+    border: 4px solid black;
+    height: 800px;
+    width: 800px;
+    margin: auto;
+}
+
+.comman{
+    height: 100px;
+    width: 100px;
+    float: left ;
+    font-size: 60px;
+    text-align: center;
+    color: azure;
+}
+
+.black{
+    background-color: darkred;
+}
+.white{
+    background-color: burlywood;
+}
+i{
+    margin-top: 20px;
+}
